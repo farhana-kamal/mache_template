@@ -1,0 +1,381 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"tex",
+				"text-left \tBootstrap 4 Class"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"co",
+				"col-10 \tBootstrap 4 Class"
+			],
+			[
+				"cont",
+				"container \tBootstrap 4 Class"
+			],
+			[
+				"of",
+				"offset-3 \tBootstrap 4 Class"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"conta",
+				"container-fluid \tBootstrap 4 Class"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"m-",
+				"m-auto \tBootstrap 4 Class"
+			],
+			[
+				"ro",
+				"row \tBootstrap 4 Class"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"im",
+				"img-fluid \tBootstrap 4 Class"
+			],
+			[
+				"text-c",
+				"text-center \tBootstrap 4 Class"
+			],
+			[
+				"c",
+				"chief.jpg\tw:570 h:552"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"o",
+				"offset-2"
+			],
+			[
+				"offset-",
+				"offset-sm-3"
+			],
+			[
+				"nav",
+				"nav-menu"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"let",
+				"left"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"FON",
+				"font-size"
+			],
+			[
+				"img",
+				"img-fluid"
+			],
+			[
+				"our",
+				"our-menu"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"f",
+				"float"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"s",
+				"section\tTag"
+			],
+			[
+				"l",
+				"lang\tAttr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pac",
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"colo",
+				"Color Picker"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Backup 19.02.2018/Farhana/Desktop/panakiea-4/indext.html",
+		"/C/Users/User/Desktop/restaurent project-2/css/style.css",
+		"/C/Users/User/Desktop/restaurent project-2/index.html",
+		"/C/Users/User/Desktop/restaurent project-2/index.htm",
+		"/C/Users/User/AppData/Roaming/Skype/My Skype Received Files/mache/mache/index.html",
+		"/C/Users/User/Desktop/mache/css/style.css",
+		"/C/Users/User/Desktop/restaurent project/index.html",
+		"/C/Users/User/Desktop/restaurent project/css/style.css",
+		"/F/webdesign/HTML CSS Project Folder/Strict Project/Strict Project/index.html",
+		"/E/Backup 19.02.2018/Farhana/Documents/panakiea/panakiea/index.html",
+		"/E/Backup 19.02.2018/Farhana/Desktop/panakiea-4/css/style.css",
+		"/E/Backup 19.02.2018/Farhana/Desktop/mache_template/index.html",
+		"/E/Backup 19.02.2018/Farhana/Desktop/boostrap-4/index.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "style.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

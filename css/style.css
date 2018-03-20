@@ -1,0 +1,496 @@
+/*****************
+	Global SCC
+*****************/
+body{
+	font-family: 'Lato', sans-serif;
+}
+/*******************
+	Banner Section
+********************/
+.navbar-toggler-icon .fa-bars{
+	color: #fff;
+}
+.navbar-toggler-icon { 
+    line-height: 1.5em;
+}
+.banner-section{
+    background: url(../images/banner.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.navbar-light .navbar-nav .nav-link{
+	color: #fff;
+	font-weight: 600;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+	color: #ed145b;
+}
+.bg-faded {
+    background-color: transparent;
+}
+.nav-menu ul li a{
+	color: #fff; 
+}
+.nav-menu ul li a:hover{
+	color: #ed145b; 
+}
+.title{
+	color: #fff;
+	margin-top: 150px;
+	letter-spacing: 1px;
+}
+.title h1{
+	font-weight: 300;
+	display: inline-block;
+	padding-bottom: 20px;
+	position: relative;
+}
+.title h1:before{
+    content: "";
+    position: absolute;
+    width: 50%;
+    height: 1px;
+    bottom: 0;
+    left: 25%;
+    border-bottom: 2px solid #ed145b;
+}
+.description{
+	color: #fff;
+	padding-top: 40px;
+    letter-spacing: 1px;
+    word-spacing: 3px;
+}
+.show-more-btn{
+    margin: 40px auto;
+    font-size: 12px;
+    padding: 10px 30px;
+    border-radius: 20px;
+    border: none;
+    background: #fff;
+    color: #ed145b;
+}
+.show-more-btn:hover{
+	background: #ed145b;
+	color: #fff;
+}
+.btn{
+	display: block;
+	padding-bottom: 100px;
+}
+/*************************
+	Second banner
+**************************/
+.blank-banner{
+	background: url(../images/blank-banner.png);
+	background-size: cover;
+	/* height: 455px; */
+}
+.machebook-heading h1{
+	font-weight: 300;
+	display: inline-block;
+	padding-bottom: 20px;
+	position: relative;
+	font-size: 30px;
+}
+.machebook-heading h1:before{
+    content: "";
+    position: absolute;
+    width: 50%;
+    height: 1px;
+    bottom: 0;
+    left: 0%;
+    border-bottom: 2px solid #ed145b;
+}
+.machebook-details p{
+	width: 450px;
+    font-size: 13px;
+    letter-spacing: 1px;
+}
+.machebook{
+	padding-top: 100px;
+}
+.machebook-img img{
+	max-width: 100%;
+	transform: translateY(60px);
+}
+.machebook-details{
+	padding: 20px 0px;
+}
+.video{
+	cursor: pointer;
+    color: #ed145b !important;
+}
+.overlay{
+    position: relative;
+    overflow: hidden;
+}
+.overlay:before{
+	content: "";
+	position: absolute;
+	width: 105%;
+	height: 40px;
+	background: #ed145b;
+	bottom: -30px;
+	left: -10px;
+	transform: rotate(2deg);
+	transition: all 0.4s;
+}
+.overlay:hover:before{
+	content: "";
+    position: absolute;
+    width: 105%;
+    height: 100%;
+    background: #ed145ba8;
+    bottom: 0;
+    left: -10px;
+    transform: rotate(0deg);
+}
+.overlay a{
+	position: absolute;
+    color: #fff;
+    left: 50%;
+    top: 45%;
+    opacity: 0;
+	transition: all 0.4s;
+}
+.overlay:hover a{
+	opacity: 1;
+}
+/****************************
+	Our Service Section
+*****************************/
+.our-service{
+	margin-top: 50px;
+}
+.our-service-heading h1{
+	font-weight: 300;
+	display: inline-block;
+	padding-bottom: 20px;
+	position: relative;
+	margin-top: 50px;
+}
+.our-service-heading h1:before{
+    content: "";
+    position: absolute;
+    width: 100%;
+    height: 1px;
+    bottom: 0;
+    left: 0%;
+    border-bottom: 2px solid #ed145b;
+}
+.our-service-details p{
+	max-width: 690px;
+	display: block;
+	margin: 0 auto;
+}
+.services img{
+	width: 30%;
+	display: block;
+	margin: 50px auto;
+}
+/*************************
+	Quotes Section
+**************************/
+.banner-section p{
+	color: #fff;
+}
+.quotes p{
+	display: block;
+    margin: 20px auto;
+    max-width: 550px;
+    text-align: center;
+}
+.quotes-section{
+	display: block;
+	margin: 0 auto;
+}
+.ban-pad{
+	padding: 80px 0px;
+}
+/*******************
+	Price Section
+********************/
+.price-section{
+	background: #f4f4f4;
+	padding-bottom: 70px;
+}
+.price-details h1{
+	padding-top: 50px;
+	font-weight: 300;
+	display: inline-block;
+	padding-bottom: 20px;
+	position: relative;
+}
+.price-details h1:before{
+    content: "";
+    position: absolute;
+    width: 80%;
+    height: 1px;
+    bottom: 0;
+    left: 10%;
+    border-bottom: 2px solid #ed145b;
+}
+.pricing{
+	position: relative;
+}
+.price-button{
+	position: absolute;
+	left: 100px;
+    top: 390px;
+}
+.buy-now-button{
+	background: #ed145b;
+    color: #fff;
+    border: none;
+    border-radius: 40px;
+    padding: 5px 25px;
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
+}
+.buy-now-button:hover{
+	color: #ed145b;
+	background: pink;
+	cursor: pointer;
+	border: #ed145b;
+}
+.price-details p{
+	margin: 0 auto;
+    max-width: 710px;
+    display: block;
+    padding: 20px 0px 30px;
+}
+/*************************************
+	Additional Information Section
+**************************************/
+.additional-info{
+	padding: 30px 0px;
+}
+.icon-text-column p{
+	max-width: 200px;
+}
+/**********************
+	Join Us Section
+**********************/
+.join-us-section{
+	background: #ed145b;
+}
+.join-us-section h1{
+	font-size: 25px;
+    font-weight: 300;
+    color: #fff;
+    padding: 30px 0px;
+    letter-spacing: 1px;
+}
+.join-us-btn{
+	background: #fff;
+    color: #ed145b;
+    border: none;
+	border-radius: 40px;
+    padding: 5px 25px;
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
+}
+.join-us-btn:hover{
+	color: #fff;
+	background: pink;
+	cursor: pointer;
+}
+.join-us-btn-sec{
+	margin-top: 30px;
+}
+/******************************
+	Latest Updates Section
+*******************************/
+.updated-promo{
+	background: #f4f4f4;
+}
+.updates-heading h1{
+	padding-top: 50px;
+	font-weight: 300;
+	display: inline-block;
+	padding-bottom: 20px;
+	position: relative;
+}
+.updates-heading h1:before{
+    content: "";
+    position: absolute;
+    width: 80%;
+    height: 1px;
+    bottom: 0;
+    left: 10%;
+    border-bottom: 2px solid #ed145b;
+}
+.details-updates p{
+	max-width: 700px;
+	display: block;
+    margin: 10px auto;
+}
+.latest-updates{
+	padding-top: 30px;
+	margin-bottom: 40px;
+}
+.updates-img img:hover{
+	cursor: ;
+}
+.updated-promo h2{
+	font-size: 20px;
+    padding:15px 20px 0px;
+}
+.updated-promo p{
+	font-size: 11px;
+    padding: 10px 20px 20px;
+}
+.updated-angle{
+	position: relative;
+	bottom: 10%;
+    right: -20%;
+    color: #ed145b;
+}
+.updated-showmore{
+	position: absolute;
+	bottom: 10%;
+    left: 10%;
+}
+.updated-showmore a{
+   color: #ed145b;
+}
+.showmore-sec{
+	padding: 20px 0px;
+}
+/**********************************
+	Free PSD Template Section
+***********************************/
+.free-psd h1{
+	padding: 50px 0px 20px;
+	font-weight: 300;
+	display: inline-block;
+	position: relative;
+	color: #fff;
+	font-size: 37px;
+}
+.free-psd h1:before{
+    content: "";
+    position: absolute;
+    width: 80%;
+    height: 1px;
+    bottom: 0;
+    left: 10%;
+    border-bottom: 2px solid #ed145b;
+}
+.free-psd p{
+	display: block;
+	margin: 0 auto;
+	letter-spacing: 1px;
+	padding-top: 10px;
+}
+/***********************
+	Download Section
+************************/
+.browser-img img{
+	max-width: 420px;
+}
+.browser{
+	background: #f4f4f4;
+}
+.download-browser h1{
+	font-size: 25px;
+    color: gray;
+    letter-spacing: 1px;
+    padding: 50px 0px 20px;
+	font-weight: 300;
+	display: inline-block;
+	position: relative;
+}
+.download-browser h1:before{
+    content: "";
+    position: absolute;
+    width: 40%;
+    height: 1px;
+    bottom: 0;
+    left: 0%;
+    border-bottom: 2px solid #ed145b;
+}
+.download-browser p{
+	font-size: 12px;
+    max-width: 370px;
+}
+.download{
+	padding-top: 70px;
+}
+.download-now-btn{
+	background: #ed145b;
+    color: #fff;
+    font-size: 10px;
+    border: none;
+    border-radius: 40px;
+    padding: 5px 25px;
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -o-transition: 0.4s;
+    transition: 0.4s;
+}
+.download-now-btn:hover{
+	color: #ed145b;
+	background: pink;
+	cursor: pointer;
+	border: #ed145b;
+}
+/**********************
+	Footer Section
+***********************/
+.footer-sec{
+	background: #2b2b2b;
+}
+.footer-sec h6{
+	color: #fff;
+	font-size: 10px;
+	float: left;
+	padding-left: 25%;
+}
+.mache-footer{
+	padding: 20px 0px;
+}
+.mache-footer img{
+	padding: 0px 5px;
+    max-width: 58px;
+    position: absolute;
+    bottom: 28px
+}
+
+/*****************
+	Media Query
+*****************/
+
+@media (min-width: 768px) and (max-width: 990px){
+
+	/*.pricing img{
+		display: block;
+	    margin: 0 auto;
+	    padding-bottom: 20px;
+	}*/
+	/*.pricing {
+    position: relative;
+    text-align: center;
+    padding-bottom: 20px;
+	}*/
+	.join-us-btn{
+	    display: block;
+    	margin: 0px auto;
+	}
+	.join-us-btn-sec {
+    	margin: 0px 0px 30px;
+	}
+	.details-updates p{
+		text-align: center;
+	}
+	.updated-promo {
+    max-width: 70%;
+    text-align: center;
+}
+
+}
